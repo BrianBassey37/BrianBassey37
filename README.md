@@ -1,8 +1,8 @@
 👋 Hi, I’m Brian Bassey
 
-I am a Machine Learning Engineer with a background in Electrical Electronics Engineering. I love solving complex data and algorithmic problems and have extensive experience at high-growth startups. 
+I am a Data Analyst and a Software Engineer with a background in Electrical Electronics Engineering. I love solving complex data and algorithmic problems and have extensive experience at high-growth startups. 
 
-Skills and Expertise
+Skills and Expertise:
 
 Programming Languages: Python (Numpy, Tensorflow, Keras, Scikit-Learn), C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS
 
