@@ -4,19 +4,25 @@ I am a Data Analyst and a Software Engineer with a background in Electrical Elec
 
 #### Skills and Expertise:
 
-#### Programming Languages: Python (Numpy, Tensorflow, Keras, Scikit-Learn), C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS
+#### Programming Languages: 
+Python (Numpy, Tensorflow, Keras, Scikit-Learn), C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS
 
 
 
-### Supervised Learning: Linear Regression, Logistic Regression, SVMs, KNNs, Neural Networks, CNNs, RNNs, Transformers, Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification, YOLO, OpenCV), Natural Language Processing (NLTK, SpaCy, Gensim)
+### Supervised Learning: 
+Linear Regression, Logistic Regression, SVMs, KNNs, Neural Networks, CNNs, RNNs, Transformers, Computer Vision (Object Detection, Image Segmentation, Face Recognition/Verification, YOLO, OpenCV), Natural Language Processing (NLTK, SpaCy, Gensim)
 
-### Unsupervised Learning: Bayesian Optimization, Clustering, k-means, GMMs, Dimensionality Reduction, PCA, tSNE, HMMs, autoencoders, GANs
+### Unsupervised Learning: 
+Bayesian Optimization, Clustering, k-means, GMMs, Dimensionality Reduction, PCA, tSNE, HMMs, autoencoders, GANs
 
-#### Data Visualization: Matplotlib, Power BI
+#### Data Visualization: 
+Matplotlib, Power BI
 
-#### Cloud: AWS (EC2, S3),
+#### Cloud: 
+AWS (EC2, S3),
 
-#### Frameworks & Other: Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Termux
+#### Frameworks & Other:
+Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Termux
 
 
 
