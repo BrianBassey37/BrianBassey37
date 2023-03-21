@@ -24,7 +24,9 @@ AWS (EC2, S3),
 #### Frameworks & Other:
 Git, Anaconda, Flask, Gunicorn, HAProxy, ufw, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Termux
 
-
+##### Link to Certification
+https://drive.google.com/drive/folders/1ZuJ-PwI--Ylocsg6kPLGcf_F_7oWciFk
+https://sgq.io/0dzrSRR
 
 
 <!---
